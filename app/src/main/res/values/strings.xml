@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kesegaran Telyu</string>
+    <string name="trap">Gimana, Seger kan yah?</string>
+    <string name="intersial_ad_unit_id">ca-app-pub-5605825534849002/2233222467</string>
+    <string name="exit_dialog">Apakah anda yakin ingin keluar?</string>
+    <string name="yea_yea">Iya</string>
+    <string name="no_no">Tidak</string>
+    <string name="cek_jaringan">Yah! Masa ngga ada koneksi internet sih..</string>
+</resources>

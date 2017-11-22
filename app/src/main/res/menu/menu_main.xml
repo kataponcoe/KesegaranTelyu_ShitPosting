@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share ke Temen"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rating"
+        android:orderInCategory="200"
+        android:title="Berikan Rating"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/moreapps"
+        android:orderInCategory="300"
+        android:title="More Apps"
+        app:showAsAction="never" />
+</menu>
