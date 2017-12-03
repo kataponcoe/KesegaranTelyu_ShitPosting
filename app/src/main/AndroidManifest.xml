@@ -4,22 +4,22 @@
     package="id.luckytruedev.shitposting"
     android:installLocation="preferExternal">
 
-    <uses-sdk tools:overrideLibrary="com.android.support.design, android.support.design, android.support.v7.appcompat, com.google.firebase.firebase_ads, com.google.firebase.firebase_core
-                                        com.google.firebase.firebase_core, com.google.firebase.firebase_core, com.google.android.gms.ads.impl, com.onesignal, com.google.android.gms.measurement
-                                        com.google.android.gms.ads, com.google.android.gms.measurement, com.google.android.gms.ads, com.google.android.gms.gass, com.google.android.gms.gcm
-                                        com.google.android.gms.location, com.google.android.gms.gcm, com.google.android.gms.location, com.google.android.gms.measurement.impl
-                                        com.google.firebase.iid, com.google.android.gms.measurement.impl, com.google.firebase.iid, com.google.firebase, com.google.android.gms.iid
-                                        com.google.android.gms.base, com.google.android.gms.iid, com.google.android.gms.base, com.google.android.gms.tasks, com.google.android.gms
-                                        android.support.v4, com.google.android.gms, android.support.v4, android.support.fragment, android.support.coreutils, android.support.graphics.drawable.animated
-                                        android.support.graphics.drawable, android.support.graphics.drawable.animated, android.support.graphics.drawable, android.support.v7.recyclerview
-                                        android.support.transition, android.support.v7.recyclerview, android.support.transition, android.support.coreui, android.support.mediacompat, android.support.compat
-                                        android.arch.lifecycle, android.support.compat, android.arch.lifecycle, com.google.firebase.measurement.license, com.google.firebase.firebase.common.license
-                                        com.google.firebase.measurement.impl.license, com.google.firebase.firebase.common.license, com.google.firebase.measurement.impl.license,
-                                        com.google.firebase.firebase.iid.license, com.google.android.gms.admob.impl.license, com.google.android.gms.admob.license, com.google.android.gms.gass.license
-                                        com.google.android.gms.common.license, com.google.android.gms.gass.license, com.google.android.gms.common.license, com.google.android.gms.tasks.license
-                                        com.google.firebase.messaging, com.google.firebase.messaging, com.google.firebase.firebase.messaging.license, com.google.android.gms.tasks.license
-                                        android.support.customtabs, com.google.android.gms.tasks.license" />
-
+    <uses-sdk tools:overrideLibrary="android.support.design, android.support.v4, android.support.compat, android.arch.lifecycle, android.support.mediacompat
+                                        android.support.coreutils,android.support.mediacompat, android.support.coreutils, android.support.coreui, android.support.fragment
+                                        android.support.v7.appcompat, android.support.fragment, android.support.v7, android.support.v7.appcompat, android.support.graphics.drawable
+                                        android.support.v7.recyclerview, android.support.graphics.drawable, android.support.v7.recyclerview, android.support.v7.palette
+                                        com.google.firebase.messaging, com.google.firebase.messaging, com.google.firebase.firebase_invites, com.google.android.gms.appinvite
+                                        com.google.firebase.dynamiclinks, com.google.android.gms.appinvite, com.google.firebase.dynamiclinks, com.google.firebase.firebase_ads
+                                        com.google.android.gms.ads.impl, com.google.firebase.firebase_ads, com.google.android.gms.ads.impl, com.google.android.gms.ads
+                                        com.google.android.gms.gass, com.google.android.gms.ads, com.google.android.gms.gass, com.google.firebase.storage, com.google.firebase.auth.api
+                                        com.google.firebase.firebase_core, com.google.firebase.auth.api, com.google.firebase.firebase_core, com.google.android.gms.measurement
+                                        com.google.android.gms.measurement.impl, com.google.android.gms.measurement, com.google.android.gms.measurement.impl, com.google.firebase.iid
+                                        com.google.firebase, com.google.firebase.iid, com.google.firebase, com.google.android.gms.auth.api, com.google.android.gms.auth
+                                        com.google.android.gms.base, com.google.android.gms.auth, com.google.android.gms.base, com.google.android.gms.tasks, com.google.android.gms
+                                        android.support.v7.palette, com.google.android.gms, android.support.v7.palette, io.salyangoz.updateme, com.google.firebase.remoteconfig
+                                        com.yarolegovich.lovelydialog, com.google.firebase.remoteconfig, com.yarolegovich.lovelydialog, android.support.v7.cardview, com.onesignal,
+                                        com.google.android.gms.gcm, com.google.android.gms.iid, com.google.android.gms.location, com.google.android.gms.iid, com.google.android.gms.location
+                                        com.facebook.accountkit, com.facebook.accountkit, android.support.customtabs, android.support.transition, android.support.graphics.drawable.animated"/>
 
     <uses-feature
         android:glEsVersion="0x00020000"
