@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="id.luckytruedev.shitposting"
     android:installLocation="preferExternal">
+
+    <uses-sdk tools:overrideLibrary="com.android.support.design, android.support.design, android.support.v7.appcompat, com.google.firebase.firebase_ads, com.google.firebase.firebase_core
+                                        com.google.firebase.firebase_core, com.google.firebase.firebase_core, com.google.android.gms.ads.impl, com.onesignal, com.google.android.gms.measurement
+                                        com.google.android.gms.ads, com.google.android.gms.measurement, com.google.android.gms.ads, com.google.android.gms.gass, com.google.android.gms.gcm
+                                        com.google.android.gms.location, com.google.android.gms.gcm, com.google.android.gms.location, com.google.android.gms.measurement.impl
+                                        com.google.firebase.iid, com.google.android.gms.measurement.impl, com.google.firebase.iid, com.google.firebase, com.google.android.gms.iid
+                                        com.google.android.gms.base, com.google.android.gms.iid, com.google.android.gms.base, com.google.android.gms.tasks, com.google.android.gms
+                                        android.support.v4, com.google.android.gms, android.support.v4, android.support.fragment, android.support.coreutils, android.support.graphics.drawable.animated
+                                        android.support.graphics.drawable, android.support.graphics.drawable.animated, android.support.graphics.drawable, android.support.v7.recyclerview
+                                        android.support.transition, android.support.v7.recyclerview, android.support.transition, android.support.coreui, android.support.mediacompat, android.support.compat
+                                        android.arch.lifecycle, android.support.compat, android.arch.lifecycle, com.google.firebase.measurement.license, com.google.firebase.firebase.common.license
+                                        com.google.firebase.measurement.impl.license, com.google.firebase.firebase.common.license, com.google.firebase.measurement.impl.license,
+                                        com.google.firebase.firebase.iid.license, com.google.android.gms.admob.impl.license, com.google.android.gms.admob.license, com.google.android.gms.gass.license
+                                        com.google.android.gms.common.license, com.google.android.gms.gass.license, com.google.android.gms.common.license, com.google.android.gms.tasks.license
+                                        com.google.firebase.messaging, com.google.firebase.messaging, com.google.firebase.firebase.messaging.license, com.google.android.gms.tasks.license
+                                        android.support.customtabs, com.google.android.gms.tasks.license" />
+
 
     <uses-feature
         android:glEsVersion="0x00020000"
